@@ -1055,7 +1055,7 @@ import Button from '@/components/Button/Button.astro';
 <br />
 <br />
 
-Подробности в отделе продаж по телефону: <a href="tel:+73532405353">+7 (3532) 40-53-53</a>
+Подробности в отделе продаж по телефону: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
 
 <div class="flex justify-center mt-10 mb-5">
 	<Button 

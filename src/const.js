@@ -15,7 +15,7 @@ export const SITE_DESCR = 'Официальный дилерский центр 
 // Имя пользователя в Телегам
 export const TELEGRAM = '';
 // Телефон по умолчанию
-export const PHONE = '+7 (8452) 229-888';
+export const PHONE = '+7 (8452) 24-25-25';
 // Бренд
 export const BRAND = 'Geely';
 // Конечное время для таймера

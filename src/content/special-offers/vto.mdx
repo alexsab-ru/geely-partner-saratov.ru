@@ -8,7 +8,10 @@ breadcrumb: Программа "Выгодное Техническое Обсл
 h1: Программа "Выгодное Техническое Обслуживание"
 ---
 import Button from '@/components/Button/Button.astro';
-// import url from Astro;
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
 <picture>
     <source media="(min-width: 1200px)" srcset="/img/banners/vto/vto-1921x638.webp" />

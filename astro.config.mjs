@@ -32,6 +32,6 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://geely-partner-vostok.ru',
+	site: 'https://geely-partner-saratov.ru',
 	base: "/"
 });

@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars><car>
+			<unique_id>a28d6cc5f0d6bf854fb873c1ce46ae87</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3793990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S1XRB110093</vin>
+			<description />
+			<images />
+		<priceWithDiscount>3793990</priceWithDiscount><sale_price>3793990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серый-2024/</url></car>
+		<car>
+			<unique_id>32ae3d4a0a6769c60f4dec5b670ede35</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship+</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3466990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB320848</vin>
+			<description />
+			<images />
+		<priceWithDiscount>3466990</priceWithDiscount><sale_price>3466990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-flagship-plus-белый-2024/</url></car>
+		<car>
+			<unique_id>5104ea6f1ec09f6fd9f2693a27346b31</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas Pro</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3161990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D0RB324497</vin>
+			<description />
+			<images />
+		<priceWithDiscount>3161990</priceWithDiscount><sale_price>3161990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>df557802ae7654be0d23ef60926785dc</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2979990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z9RX533270</vin>
+			<description />
+			<images />
+		<priceWithDiscount>2979990</priceWithDiscount><sale_price>2979990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>4bf1fccaa2ee2a79e6d3baafb3cd342c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2412990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31038RG035218</vin>
+			<description />
+			<images />
+		<priceWithDiscount>2412990</priceWithDiscount><sale_price>2412990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>a590cb73e7340a22ee51fe5d7c96f77a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Emgrand, II</folder_id>
+			<modification_id>1.5 AT (122 л.с.)</modification_id>
+			<complectation_name>Comfort</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2322990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3F31032RG035263</vin>
+			<description />
+			<images />
+		<priceWithDiscount>2322990</priceWithDiscount><sale_price>2322990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
+		<car>
+			<unique_id>28510bdd6257b51fe4c22b34d78b24b8</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852DXRS143050</vin>
+			<description />
+			<images />
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>b86c475aa6076062d4b63332b7a49d22</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D9RS143055</vin>
+			<description />
+			<images />
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>6b8dd19936104946b934736410835dc2</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4826990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D6RS142977</vin>
+			<description />
+			<images />
+		<priceWithDiscount>4826990</priceWithDiscount><sale_price>4826990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>0d40f3313231e7a92ae7a6562ad0de43</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3273990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TFS1S82RD084584</vin>
+			<description />
+			<images />
+		<priceWithDiscount>3273990</priceWithDiscount><sale_price>3273990</sale_price><url>https://geely-partner-saratov.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-зеленый-2024/</url></car>
+	</cars>
+</data>

@@ -1,31 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>a28d6cc5f0d6bf854fb873c1ce46ae87</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3866990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S1XRB110093</vin>
-			<description />
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-серый-2024/</url></car>
-		<car>
 			<unique_id>32ae3d4a0a6769c60f4dec5b670ede35</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas Pro</folder_id>
@@ -151,31 +126,6 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-comfort-серый-2024/</url></car>
 		<car>
-			<unique_id>28510bdd6257b51fe4c22b34d78b24b8</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>4932990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852DXRS143050</vin>
-			<description />
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
 			<unique_id>6b8dd19936104946b934736410835dc2</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -197,6 +147,31 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>LB37852D6RS142977</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>28510bdd6257b51fe4c22b34d78b24b8</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4932990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852DXRS143050</vin>
 			<description />
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>

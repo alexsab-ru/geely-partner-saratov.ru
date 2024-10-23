@@ -73,8 +73,78 @@
 			<currency>RUR</currency>
 			<vin>Y4K8722D0RB324497</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/541324f1880c412102c449d1bdfa3229.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/ee610a66bb6fa1041e7eea5c0a05f7af.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/8340a0cdb1a8fe4e04d303b20106d0dc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/e40e726d5dea09f8a05873f3e9def8e4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/b2837120c1994148daaed365bcdb6166.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/eb94b055019c2553f7bfaa358904b2d2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/65505ab1e0b9b6fabfd9340c4e6a3004.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/7fb09c7e541a60ae9f1268bfc68cb18a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/4dd445c41c97996b751ec8cba42c13b2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/629b050d971bbfaa4c96b1ae3f4de491.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/0e963cc25057852ae41dbad7e15c266b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/88645b7a324a0b31a232922274f02f38.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/da00840b77d979befb30d51a1dff7a98.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/4b528cc1e1cc8e26a8da9d3740e647ea.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/aa89b2c9c11b9710c0a585f0d34af787.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/60650f0408cd5e50c88f838458b6c698.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/a705b826b3cc204f5ba29141e497c992.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/e891747b4682275cd9778c114a2aa8c8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D0RB324497/4fc9fc69309da454140261d90ae158c1.jpg</image>
+			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-atlas-pro-15-amt-177-лс-4wd-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>b1ad956aa6fa8abbf5b020ae3369e082</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3000990</price>
+			<credit_discount>587444</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>777444</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S99RX301019</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-luxury-белый-2024/</url></car>
+		<car>
+			<unique_id>bd3952516d55b42725691b5a4e640f54</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Comfort</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Голубой</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2699990</price>
+			<credit_discount>587445</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>777445</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S93RX303817</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-comfort-голубой-2024/</url></car>
 		<car>
 			<unique_id>4bf1fccaa2ee2a79e6d3baafb3cd342c</unique_id>
 			<mark_id>Geely</mark_id>
@@ -265,6 +335,73 @@
 			<description />
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
+			<unique_id>50904f18b33dd13fe06b7d15afde8ef1</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>11</run>
+			<year>2024</year>
+			<price>4932990</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D5RS084795</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-серый-2024/</url></car>
+		<car>
+			<unique_id>c4a667322036313fb3ebea2f614ede34</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Okavango, I Рестайлинг</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3528990</price>
+			<credit_discount>564741</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>764741</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TVX1S68RY017993</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/b039f1cd1e45d402cd1f988a0f154ccd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/5f232963bdd11da308606fd2e3384826.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/2538f5f6c2ba8c250aa8b27f7e8f59bf.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/c2bf5e7a31670a18533da58c3d531766.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/bca487ceb3826677c12e68f955a19c68.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/43460162861482aacf72a061e6439a5c.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/23b64dfe71acec5d6d691778d02e760a.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/3cba9d4299dfab387c49d5449769db6c.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/995d217969374a55b6336cc0e0a03542.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/eec61b9479b1eb771c88395601e813cd.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/9c380909a8e16f109c8edc669254432b.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/0eb8fd73e830619967ae4c79fa0fca15.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/26c276e4b9b83861b078e094fc2d5168.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/a8eec1fea91a8b0a118fe67227b651ff.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/3769c675187f0d82dacab35c77a194e4.jpg</image>
+				<image>https://photo.toyotasever.ru/L6TVX1S68RY017993/adccc34a22998152508f268bdecb64ee.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>0d40f3313231e7a92ae7a6562ad0de43</unique_id>
 			<mark_id>Geely</mark_id>

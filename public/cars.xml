@@ -12,7 +12,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3566990</price>
 			<credit_discount>598354</credit_discount>
@@ -45,7 +45,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>8</run>
 			<year>2024</year>
 			<price>3566990</price>
 			<credit_discount>598354</credit_discount>
@@ -78,7 +78,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3566990</price>
 			<credit_discount>598354</credit_discount>
@@ -111,7 +111,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3766990</price>
 			<credit_discount>598355</credit_discount>
@@ -200,7 +200,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>8</run>
 			<year>2024</year>
 			<price>3293990</price>
 			<credit_discount>598654</credit_discount>
@@ -456,7 +456,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
 			<price>3040990</price>
 			<credit_discount>587454</credit_discount>
@@ -680,39 +680,6 @@
 			<images />
 		<priceWithDiscount>1923249</priceWithDiscount><sale_price>1923249</sale_price><url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>6b8dd19936104946b934736410835dc2</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Exclusive</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>4932990</price>
-			<credit_discount>674798</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>924798</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D6RS142977</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 250 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 200 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-		<priceWithDiscount>4008192</priceWithDiscount><sale_price>4008192</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
-		<car>
 			<unique_id>28510bdd6257b51fe4c22b34d78b24b8</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -746,6 +713,39 @@
 			<images />
 		<priceWithDiscount>4008192</priceWithDiscount><sale_price>4008192</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
+			<unique_id>6b8dd19936104946b934736410835dc2</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Exclusive</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4932990</price>
+			<credit_discount>674798</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>924798</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D6RS142977</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 250 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 200 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+		<priceWithDiscount>4008192</priceWithDiscount><sale_price>4008192</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
+		<car>
 			<unique_id>43533a33fe67dab0ceff1b8eb4f0b3f7</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -757,7 +757,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4932990</price>
 			<credit_discount>674798</credit_discount>
@@ -790,7 +790,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4932990</price>
 			<credit_discount>737701</credit_discount>
@@ -823,7 +823,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4732990</price>
 			<credit_discount>737701</credit_discount>
@@ -856,7 +856,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4732990</price>
 			<credit_discount>737701</credit_discount>
@@ -889,7 +889,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>3748990</price>
 			<credit_discount>549744</credit_discount>
@@ -1052,49 +1052,6 @@
 			</multiposting>
 		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
 		<car>
-			<unique_id>645e8b1f5603937cc0e72e6a1b46b01d</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2610990</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>727379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z0RB938867</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/e3f3261cb4c975e610243dd6e6058bb6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/2f9d4e09c46b8c8f9fa90cb5c15f0624.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/073dc34cc4dcbbc4f7d83c0636411c7b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/b2c2c23e331efad6ecff6271fce20866.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/bc6ceb1fa45f06a78eb406e52ae8ffc9.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/956a35067020f6a68935cc780bcc0db9.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
-		<car>
 			<unique_id>e033b838192b7f8419e3ca3a3e745548</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -1132,6 +1089,49 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938870/a7538c7a6de01533f9b9c07f5ab36033.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938870/55bc4cd60cb687e127872ce882aa6194.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938870/3680a535eebfb042f88c1600748ff3c7.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
+		<car>
+			<unique_id>645e8b1f5603937cc0e72e6a1b46b01d</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2610990</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>400000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>727379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z0RB938867</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/e3f3261cb4c975e610243dd6e6058bb6.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/2f9d4e09c46b8c8f9fa90cb5c15f0624.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/073dc34cc4dcbbc4f7d83c0636411c7b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/b2c2c23e331efad6ecff6271fce20866.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/bc6ceb1fa45f06a78eb406e52ae8ffc9.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0RB938867/956a35067020f6a68935cc780bcc0db9.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>

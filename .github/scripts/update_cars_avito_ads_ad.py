@@ -61,19 +61,19 @@ def duplicate_car(car, n, status = "в пути", offset = 0):
         new_car = copy.deepcopy(car)  # Клонируем текущий элемент car
 
         # Обрабатываем VIN
-        vin = new_car.find('vin').text
+        vin = new_car.find('VIN').text
         new_vin = modify_vin(vin.lower(), offset+i+1)
-        new_car.find('vin').text = new_vin.upper()  # Меняем текст VIN
+        new_car.find('VIN').text = new_vin.upper()  # Меняем текст VIN
 
         # Обрабатываем unique_id
-        unique_id = new_car.find('unique_id').text
+        unique_id = new_car.find('Id').text
         new_unique_id = increment_str(unique_id, offset+i+1)  # Изменяем последний символ на i
-        new_car.find('unique_id').text = new_unique_id  # Меняем текст unique_id
+        new_car.find('Id').text = new_unique_id  # Меняем текст unique_id
 
         print(vin, new_vin, unique_id, new_unique_id)
         
         # Обновляем статус
-        new_car.find('availability').text = status  # Меняем статус Наличие автомобиля
+        new_car.find('Availability').text = status  # Меняем статус Наличие автомобиля
         duplicates.append(new_car)
     
     return duplicates
@@ -100,7 +100,7 @@ remove_mark_ids = [
 ]
 remove_folder_ids = [
 ]
-cars_element = root.find('cars')
+cars_element = root
 
 for car in cars_element:
     should_remove = False
@@ -121,13 +121,13 @@ for car in cars_element:
         cars_to_remove.append(car)
         continue  # Пропускаем остальные операции для этой машины
 
-    unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
-    unique_id = f"{process_unique_id(unique_id)}"
-    print(f"Уникальный идентификатор: {unique_id}")
-    create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
+    # unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
+    # unique_id = f"{process_unique_id(unique_id)}"
+    # print(f"Уникальный идентификатор: {unique_id}")
+    # create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
     
     # Получаем VIN автомобиля
-    vin = car.find('vin').text if car.find('vin') is not None else None
+    vin = car.find('VIN').text if car.find('VIN') is not None else None
     
     if vin and vin in air_storage_data:
         # Создаем указанное количество дубликатов для машин из JSON

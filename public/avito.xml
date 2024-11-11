@@ -14,7 +14,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -58,9 +58,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -114,7 +114,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -147,7 +147,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -158,31 +158,6 @@
 			<description />
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>f743b3ba905e38ddba1558a261847cf4</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3766990</price>
-			<credit_discount>598355</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>798355</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S10RB130854</vin>
-			<description />
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
 			<unique_id>a690215f7174bf7c92ed2f462784aa5f</unique_id>
 			<mark_id>Geely</mark_id>
@@ -197,7 +172,7 @@
 			<custom>растаможен</custom>
 			<run>9</run>
 			<year>2024</year>
-			<price>3766990</price>
+			<price>3824190</price>
 			<credit_discount>598355</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -230,7 +205,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3766990</price>
+			<price>3824190</price>
 			<credit_discount>598355</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -263,7 +238,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3866990</price>
+			<price>3924190</price>
 			<credit_discount>584754</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -294,9 +269,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
-			<price>3866990</price>
+			<price>3924190</price>
 			<credit_discount>584754</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -321,7 +296,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3666990</price>
+			<price>3724190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -375,9 +350,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3666990</price>
+			<price>3724190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -402,7 +377,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3293990</price>
+			<price>3424190</price>
 			<credit_discount>598654</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -548,7 +523,7 @@
 			<custom>растаможен</custom>
 			<run>9</run>
 			<year>2024</year>
-			<price>3160990</price>
+			<price>3218190</price>
 			<credit_discount>587445</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
@@ -581,7 +556,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3000990</price>
+			<price>3058190</price>
 			<credit_discount>587444</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
@@ -634,7 +609,7 @@
 			<custom>растаможен</custom>
 			<run>10</run>
 			<year>2024</year>
-			<price>3040990</price>
+			<price>3053190</price>
 			<credit_discount>587454</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -667,7 +642,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2810990</price>
+			<price>2823190</price>
 			<credit_discount>597444</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -719,39 +694,6 @@
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>555956bf7c7388d941fbe22f2e6a3096</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2457990</price>
-			<credit_discount>398757</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>548757</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31039RG035079</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 150 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 200 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-синий-2024/</url></car>
 		<car>
 			<unique_id>15e16697fd9329b8f016df74326bd3d1</unique_id>
 			<mark_id>Geely</mark_id>
@@ -897,7 +839,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>737702</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -928,9 +870,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>674798</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -963,7 +905,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>674798</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -996,7 +938,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>674798</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -1027,9 +969,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -1060,9 +1002,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>9</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -1095,7 +1037,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -1128,7 +1070,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -1153,7 +1095,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -1186,7 +1128,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3748990</price>
+			<price>3806190</price>
 			<credit_discount>549744</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1211,7 +1153,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3748990</price>
+			<price>3806190</price>
 			<credit_discount>549744</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1244,7 +1186,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3748990</price>
+			<price>3806190</price>
 			<credit_discount>549744</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1277,7 +1219,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3528990</price>
+			<price>3656190</price>
 			<credit_discount>564741</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1327,7 +1269,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3338990</price>
+			<price>3396190</price>
 			<credit_discount>656789</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1352,7 +1294,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1396,9 +1338,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1452,7 +1394,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1485,7 +1427,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3566990</price>
+			<price>3624190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1496,31 +1438,6 @@
 			<description />
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
-		<car>
-			<unique_id>f743b3ba905e38ddba1558a261847cf5</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3766990</price>
-			<credit_discount>598355</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>798355</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S10RB130855</vin>
-			<description />
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
 			<unique_id>0690215f7174bf7c92ed2f462784aa5g</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1535,7 +1452,7 @@
 			<custom>растаможен</custom>
 			<run>9</run>
 			<year>2024</year>
-			<price>3766990</price>
+			<price>3824190</price>
 			<credit_discount>598355</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1568,7 +1485,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3766990</price>
+			<price>3824190</price>
 			<credit_discount>598355</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1601,7 +1518,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3866990</price>
+			<price>3924190</price>
 			<credit_discount>584754</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1632,9 +1549,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
-			<price>3866990</price>
+			<price>3924190</price>
 			<credit_discount>584754</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1659,7 +1576,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3666990</price>
+			<price>3724190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1713,9 +1630,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>3666990</price>
+			<price>3724190</price>
 			<credit_discount>598354</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1740,7 +1657,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3293990</price>
+			<price>3424190</price>
 			<credit_discount>598654</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1886,7 +1803,7 @@
 			<custom>растаможен</custom>
 			<run>9</run>
 			<year>2024</year>
-			<price>3160990</price>
+			<price>3218190</price>
 			<credit_discount>587445</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
@@ -1919,7 +1836,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3000990</price>
+			<price>3058190</price>
 			<credit_discount>587444</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>190000</tradein_discount>
@@ -1972,7 +1889,7 @@
 			<custom>растаможен</custom>
 			<run>10</run>
 			<year>2024</year>
-			<price>3040990</price>
+			<price>3053190</price>
 			<credit_discount>587454</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -2005,7 +1922,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2810990</price>
+			<price>2823190</price>
 			<credit_discount>597444</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -2057,39 +1974,6 @@
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>555956bf7c7388d941fbe22f2e6a3097</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Emgrand, II</folder_id>
-			<modification_id>1.5 AT (122 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2457990</price>
-			<credit_discount>398757</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>548757</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3F31039RG035080</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 150 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 200 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-синий-2024/</url></car>
 		<car>
 			<unique_id>15e16697fd9329b8f016df74326bd3d2</unique_id>
 			<mark_id>Geely</mark_id>
@@ -2235,7 +2119,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>737702</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2266,9 +2150,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>674798</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2301,7 +2185,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>674798</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2334,7 +2218,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>674798</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2365,9 +2249,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2024</year>
-			<price>4932990</price>
+			<price>4990190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2398,9 +2282,9 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>9</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2433,7 +2317,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2466,7 +2350,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2491,7 +2375,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>4732990</price>
+			<price>4790190</price>
 			<credit_discount>737701</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -2524,7 +2408,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3748990</price>
+			<price>3806190</price>
 			<credit_discount>549744</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -2549,7 +2433,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3748990</price>
+			<price>3806190</price>
 			<credit_discount>549744</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -2582,7 +2466,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3748990</price>
+			<price>3806190</price>
 			<credit_discount>549744</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -2615,7 +2499,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3528990</price>
+			<price>3656190</price>
 			<credit_discount>564741</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -2665,7 +2549,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3338990</price>
+			<price>3396190</price>
 			<credit_discount>656789</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>

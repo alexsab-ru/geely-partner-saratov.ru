@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>0efcd73f675ffa3de49c2760a3c842ff</unique_id>
+			<unique_id>d8e2a42cae04d00897cf9f08aa7c3bb4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
@@ -21,7 +21,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>798354</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S69RB093198</vin>
+			<vin>LB3FX1S63RB130004</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -32,12 +32,13 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/cdba0073d37a3e2140d823fe0a0ef5b0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/73907160b34fd54d4c069eccb9d4e688.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/a3de873ec1a9735f538abf419b0383b4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/a8031f4382542249eed8c862bfe8432a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/6524cbd6a6db4886ed2b0ca81eeebe57.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/74c61969114d082dfb701ea1218d0835.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/e678c5fe5e6f16ac03c7b19f39151cbd.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/73a2ef7a88ceb877e1d9c7d5bdf1bb48.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/1ef83dddd381da44207d97b4d7423229.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/26195a48861343caed96b88e494bc243.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/ab262fec8fc362663f0ceb958d66a9a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/1aed8516f32884857b51c397a6e2cbfc.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/52e7bde9408a0516b8ebdae7299f8f26.jpg</image>
 			</images>
 		<priceWithDiscount>2825836</priceWithDiscount><sale_price>2825836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
@@ -87,61 +88,7 @@
 			</images>
 		<priceWithDiscount>2825836</priceWithDiscount><sale_price>2825836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>d106aa034ed462863eb16d75b61aba84</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>10</run>
-			<year>2024</year>
-			<price>3624190</price>
-			<credit_discount>598354</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>798354</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S6XRB093209</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/f2760bb88c41bf3491dbc96b97127fc1.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/64add29c976a2369d2f1af0d0288e84a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/61ca0c6329b5e97e95cce64727f6946e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/80debb0cd29cc3d94344e1cb041b0aa7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/812ba318ac2e5253945ac2081dbff5be.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/fd01d67b95065ebf2802e6cbba93eb18.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/687a03471047a740cb75d69928e560ad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/043cf5084ae92960cd19cf8229a114ea.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/cfe43633942edaef2ad41ff6f454e9ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/8059d89a11e9e0ebadd3ec953517f94e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/ae4725d91bd467f8cb13c58d11149cb8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/245aedb63edba7cdf3a109158ba6432c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/858bf416f93da70705772cbc97330254.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/eebf7189e1464e6e98c919b2ce8c2c60.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/8e9105bcc796d49be549dfc0cd40a019.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/133a6cae3b53e25c5036a4a987b3654f.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/87067ed4011ba421cb42a482d99364a5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/3e4ccb5f3ecca0dd790f628a9308d767.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/4343caa98dfa879fd213f9180bf6b5b8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S6XRB093209/ea9b59a521b935ee7b78d6768e8fb118.jpg</image>
-			</images>
-		<priceWithDiscount>2825836</priceWithDiscount><sale_price>2825836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>d8e2a42cae04d00897cf9f08aa7c3bb4</unique_id>
+			<unique_id>0efcd73f675ffa3de49c2760a3c842ff</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AMT (200 л.с.)</modification_id>
@@ -161,7 +108,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>798354</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S63RB130004</vin>
+			<vin>LB3FX1S69RB093198</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -172,13 +119,12 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/e678c5fe5e6f16ac03c7b19f39151cbd.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/73a2ef7a88ceb877e1d9c7d5bdf1bb48.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/1ef83dddd381da44207d97b4d7423229.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/26195a48861343caed96b88e494bc243.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/ab262fec8fc362663f0ceb958d66a9a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/1aed8516f32884857b51c397a6e2cbfc.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3FX1S63RB130004/52e7bde9408a0516b8ebdae7299f8f26.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/cdba0073d37a3e2140d823fe0a0ef5b0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/73907160b34fd54d4c069eccb9d4e688.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/a3de873ec1a9735f538abf419b0383b4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/a8031f4382542249eed8c862bfe8432a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/6524cbd6a6db4886ed2b0ca81eeebe57.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3FX1S69RB093198/74c61969114d082dfb701ea1218d0835.jpg</image>
 			</images>
 		<priceWithDiscount>2825836</priceWithDiscount><sale_price>2825836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-черный-2024/</url></car>
 		<car>
@@ -321,6 +267,39 @@
 			</images>
 		<priceWithDiscount>3139436</priceWithDiscount><sale_price>3139436</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-sport-черный-2024/</url></car>
 		<car>
+			<unique_id>c50c26b57433bfd50864df134508be5c</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Atlas, II</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship Sport</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>3724190</price>
+			<credit_discount>598354</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>798354</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3FX1S64RB115463</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+		<priceWithDiscount>2925836</priceWithDiscount><sale_price>2925836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-черный-2024/</url></car>
+		<car>
 			<unique_id>032fe2e5485ea768b6e2616faed5ec4f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
@@ -370,39 +349,6 @@
 				<image>https://photo.toyotasever.ru/LB3FX1S63RB130830/9092e7154b85a2e06bf39295e75d1cfd.jpg</image>
 			</images>
 		<priceWithDiscount>2925836</priceWithDiscount><sale_price>2925836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-серебристый-2024/</url></car>
-		<car>
-			<unique_id>c50c26b57433bfd50864df134508be5c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Atlas, II</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship Sport</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3724190</price>
-			<credit_discount>598354</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>798354</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3FX1S64RB115463</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-		<priceWithDiscount>2925836</priceWithDiscount><sale_price>2925836</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-amt-200-лс-flagship-sport-черный-2024/</url></car>
 		<car>
 			<unique_id>a66116b1cc40103c16a0d5edaa554244</unique_id>
 			<mark_id>Geely</mark_id>
@@ -564,6 +510,39 @@
 			<images />
 		<priceWithDiscount>2440745</priceWithDiscount><sale_price>2440745</sale_price><url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
 		<car>
+			<unique_id>eca13a9e53af15f98de3f110c7eccb6b</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3058190</price>
+			<credit_discount>587444</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>777444</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S94RX302420</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+		<priceWithDiscount>2280746</priceWithDiscount><sale_price>2280746</sale_price><url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-luxury-серый-2024/</url></car>
+		<car>
 			<unique_id>b1ad956aa6fa8abbf5b020ae3369e082</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>
@@ -616,39 +595,6 @@
 				<image>https://photo.toyotasever.ru/LB3G43S99RX301019/745f4386a71889f7be215a4056b679bc.jpg</image>
 			</images>
 		<priceWithDiscount>2280746</priceWithDiscount><sale_price>2280746</sale_price><url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-luxury-белый-2024/</url></car>
-		<car>
-			<unique_id>eca13a9e53af15f98de3f110c7eccb6b</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Cityray</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>3058190</price>
-			<credit_discount>587444</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>190000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>777444</max_discount>
-			<currency>RUR</currency>
-			<vin>LB3G43S94RX302420</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-		<priceWithDiscount>2280746</priceWithDiscount><sale_price>2280746</sale_price><url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-luxury-серый-2024/</url></car>
 		<car>
 			<unique_id>80c45178369491ada3ddefdbf40a6dc8</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1571,6 +1517,145 @@
 			</multiposting>
 		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
+			<unique_id>08598818aa8117ae1d38d5a7de647c2d</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2446190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>512379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z7RB939921</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/a1199575db0f6342c2655897dc46cc7e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/e90779700668156542696f4d4fd06c5a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/6b3b94f5568ab979733f31bb1874ea2c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/19a2e58e9188203dcb69f990803ecf3b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/3190ca7bc74ce826e8227b31c935b9ad.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/96d43c294765fa02a2255376d9d28cef.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/5aca9eb947f592bdcea84bf2386c661b.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
+			<unique_id>0a5ec5cb973bb63aec1d723a6b1fa9e4</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2446190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>512379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB940090</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/65b977ef4ef29afa8b7ceee1c942a4ce.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/f721a0eb0417d9c6e3793694e572b731.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/538cfd8c8ba10a51ceb7ecbaa91f9d36.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/45f50faac8674d2abe65f65b63f49e78.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/dc5a3c9fcc9a04641e7091fb0dd50818.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/2fff3ee96c13f3c89fa7141c18883ce4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/acf1db2bcea408a718b950e84c0cff01.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
+			<unique_id>41f0cf2c91f94eee4dcabefd26660b5c</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2446190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>512379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB940106</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/237b51d5f9504a4768ad6bf803c86746.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/44ad5c58384cd0f7c506f1d4660232d1.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/97d02224d704d7696badf52c986fe19d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/7101fb2870b7c20275f58c1dca3c09a5.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/5168a05ddbca0381b5fb96bc6a5f5e45.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/9f6c06fb5e51ddc1f38c0f8fb96348a6.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/f75549cf16ea8ee1e2e63cf92da53b85.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/6d639fa5221a0c58b2a038afbb14cc20.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/69d9d12c0291e60566f4e31c8e29ac6f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/ec483ef1942918687567ee134aaa1b00.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/5e1c71effd5250ec8d30e5b6f7c70731.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/1f8a753525310171488b29cac2d92545.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/aa536fda13026bb79db0bd76fa86a65e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/44ba39832d7c2b1653f4b9aecb82f665.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
 			<unique_id>ed8056e043d1b3997cf595b86a81fab9</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -1660,145 +1745,6 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z7RB938316/893086e5672c1d5a33d15621589a59d0.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z7RB938316/abe7cfef7383572e7d308e0f78ad5f25.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z7RB938316/bcd76122b787d67fbbfeef7c238e9ac9.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>08598818aa8117ae1d38d5a7de647c2d</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2446190</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>512379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB939921</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/a1199575db0f6342c2655897dc46cc7e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/e90779700668156542696f4d4fd06c5a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/6b3b94f5568ab979733f31bb1874ea2c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/19a2e58e9188203dcb69f990803ecf3b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/3190ca7bc74ce826e8227b31c935b9ad.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/96d43c294765fa02a2255376d9d28cef.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB939921/5aca9eb947f592bdcea84bf2386c661b.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>41f0cf2c91f94eee4dcabefd26660b5c</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2446190</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>512379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB940106</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/237b51d5f9504a4768ad6bf803c86746.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/44ad5c58384cd0f7c506f1d4660232d1.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/97d02224d704d7696badf52c986fe19d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/7101fb2870b7c20275f58c1dca3c09a5.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/5168a05ddbca0381b5fb96bc6a5f5e45.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/9f6c06fb5e51ddc1f38c0f8fb96348a6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/f75549cf16ea8ee1e2e63cf92da53b85.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/6d639fa5221a0c58b2a038afbb14cc20.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/69d9d12c0291e60566f4e31c8e29ac6f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/ec483ef1942918687567ee134aaa1b00.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/5e1c71effd5250ec8d30e5b6f7c70731.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/1f8a753525310171488b29cac2d92545.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/aa536fda13026bb79db0bd76fa86a65e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940106/44ba39832d7c2b1653f4b9aecb82f665.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>0a5ec5cb973bb63aec1d723a6b1fa9e4</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2446190</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>512379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB940090</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/65b977ef4ef29afa8b7ceee1c942a4ce.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/f721a0eb0417d9c6e3793694e572b731.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/538cfd8c8ba10a51ceb7ecbaa91f9d36.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/45f50faac8674d2abe65f65b63f49e78.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/dc5a3c9fcc9a04641e7091fb0dd50818.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/2fff3ee96c13f3c89fa7141c18883ce4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/acf1db2bcea408a718b950e84c0cff01.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1913,7 +1859,7 @@
 			</multiposting>
 		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>006496899d4da3015bae9bf540a36518</unique_id>
+			<unique_id>5d358536df83fd0f3efee4223ddc7c1b</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -1933,7 +1879,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>727379</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB942311</vin>
+			<vin>Y4K8622Z8RB942214</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -1985,7 +1931,7 @@
 			</multiposting>
 		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
-			<unique_id>5d358536df83fd0f3efee4223ddc7c1b</unique_id>
+			<unique_id>006496899d4da3015bae9bf540a36518</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2005,43 +1951,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>727379</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z8RB942214</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
-		<car>
-			<unique_id>57b667c2467054f1f4e9cea3b93b33f6</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2656190</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>727379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB922476</vin>
+			<vin>Y4K8622Z6RB942311</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -2078,6 +1988,42 @@
 			<max_discount>727379</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z6RB943152</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>57b667c2467054f1f4e9cea3b93b33f6</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2656190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>400000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>727379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z4RB922476</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -2323,6 +2269,49 @@
 			</multiposting>
 		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
 		<car>
+			<unique_id>2e37749c46f328f3aa65a9a01abe2739</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2656190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>400000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>727379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB935062</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cab712c875fe294cb8ff35af537d10e1.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/1dd0973147113f679fe78bf789e7841f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/4cfc8c5f3ef7da18119ab25b0032b32c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cce9dc3929e9b3261404beba3996d72d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/8d944e18e122ce8aec6d15ec0ff2402e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/94f68c75e3f6e803e21c51c8654fae72.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
+		<car>
 			<unique_id>7d4a3969f2dc2adab910124d8b6c0b3a</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -2367,14 +2356,14 @@
 			</multiposting>
 		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
 		<car>
-			<unique_id>2e37749c46f328f3aa65a9a01abe2739</unique_id>
+			<unique_id>b679e3fe3a13abdd33e0cd627d7ec0ab</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
 			<complectation_name>Prestige</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Красный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -2387,7 +2376,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>727379</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB935062</vin>
+			<vin>Y4K8622Z6RB934550</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -2398,17 +2387,18 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cab712c875fe294cb8ff35af537d10e1.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/1dd0973147113f679fe78bf789e7841f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/4cfc8c5f3ef7da18119ab25b0032b32c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cce9dc3929e9b3261404beba3996d72d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/8d944e18e122ce8aec6d15ec0ff2402e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/94f68c75e3f6e803e21c51c8654fae72.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/e82ecc72967b60478a333f504d312886.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/bae0cdf2f74052a330b277345344ba15.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/d6d811f5fd441a37d47ba5962754b997.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/099626a3cf4d31e7f9734fb426f08cba.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/3a0bec83d6330b22be5952579ba45e35.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/cdd39221b7d9e9a8b85f92a718ff0fa8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/32b482fc1418f90a876028540121651b.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
 			<unique_id>647601fdbec8df415d83686450878e47</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -2448,50 +2438,6 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z5RB934619/6f0b92bd4cf7508387682d1f483c5985.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z5RB934619/c6ae27da2548e5cecc87824ebfa212e6.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z5RB934619/43a1efe7b1d8885b020e8471999fc706.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
-		<car>
-			<unique_id>b679e3fe3a13abdd33e0cd627d7ec0ab</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2656190</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>727379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB934550</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/e82ecc72967b60478a333f504d312886.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/bae0cdf2f74052a330b277345344ba15.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/d6d811f5fd441a37d47ba5962754b997.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/099626a3cf4d31e7f9734fb426f08cba.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/3a0bec83d6330b22be5952579ba45e35.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/cdd39221b7d9e9a8b85f92a718ff0fa8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/32b482fc1418f90a876028540121651b.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3200,42 +3146,6 @@
 			</multiposting>
 		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
 		<car>
-			<unique_id>6cd52de0d4d23a38dbfb7f0a7618b5fb</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2905190</price>
-			<credit_discount>504111</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>754111</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z7RB330583</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
-		<car>
 			<unique_id>053ccdce8e9cb8fe02237d73a8752659</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -3257,6 +3167,42 @@
 			<max_discount>754111</max_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8722Z8RB330558</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
+		<car>
+			<unique_id>6cd52de0d4d23a38dbfb7f0a7618b5fb</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебристый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2905190</price>
+			<credit_discount>504111</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>754111</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722Z7RB330583</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.

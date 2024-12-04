@@ -1,4 +1,3 @@
-# python3 .github/scripts/update_cars_avito.py
 import argparse
 import os
 import yaml
@@ -146,15 +145,16 @@ for car in cars_element:
         cars_to_remove.append(car)
         continue  # Пропускаем остальные операции для этой машины
 
-    unique_id = f"{build_unique_id(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
-    unique_id = f"{process_unique_id(unique_id)}"
-    print(f"Уникальный идентификатор: {unique_id}")
-    create_child_element(car, 'url', f"https://{repo_name}/cars/{unique_id}/")
+    friendly_url = f"{join_car_data(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
+    friendly_url = f"{process_friendly_url(friendly_url)}"
+    print(f"Уникальный идентификатор: {friendly_url}")
+    create_child_element(car, 'url', f"https://{repo_name}/cars/{friendly_url}/")
+    update_element_text(car, 'color', avitoColor(car.find('color').text))
     
     # Получаем VIN автомобиля
     vin = car.find('vin').text if car.find('vin') is not None else None
     
-    if vin and vin in air_storage_data:
+    if vin and vin in air_storage_data and air_storage_data.get(vin):
         # Создаем указанное количество дубликатов для машин из JSON
         duplicates = duplicate_car(car, air_storage_data[vin], "в наличии", 0)
         all_duplicates.extend(duplicates)

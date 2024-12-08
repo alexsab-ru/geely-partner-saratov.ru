@@ -1349,7 +1349,7 @@
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc4</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f12934</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -1369,7 +1369,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180063</vin>
+			<vin>LB37852D6RS179981</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -1380,16 +1380,18 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
@@ -1476,56 +1478,6 @@
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c73</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154910</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
 			<unique_id>e9d71248fd4c6c9136033083158540a0</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1573,6 +1525,56 @@
 				<image>https://photo.toyotasever.ru/LB37852D0RS154946/f79aa0bbad6da34dc83a8928b400626d.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D0RS154946/dd9e02030dd0df38e52af53c961b8143.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D0RS154946/ca505454e490277fc4c45166646d031f.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c73</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154910</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
@@ -1714,7 +1716,7 @@
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f12934</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc4</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -1734,7 +1736,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179981</vin>
+			<vin>LB37852D6RS180063</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -1745,18 +1747,16 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
@@ -11201,7 +11201,7 @@
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-exclusive-синий-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc5</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f12935</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11221,7 +11221,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180064</vin>
+			<vin>LB37852D6RS179982</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11232,20 +11232,22 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc6</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f12936</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11265,7 +11267,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180065</vin>
+			<vin>LB37852D6RS179983</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11276,20 +11278,22 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc7</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f12937</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11309,7 +11313,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180066</vin>
+			<vin>LB37852D6RS179984</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11320,20 +11324,22 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc8</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f12938</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11353,7 +11359,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180067</vin>
+			<vin>LB37852D6RS179985</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11364,20 +11370,22 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc9</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f12939</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11397,7 +11405,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180068</vin>
+			<vin>LB37852D6RS179986</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11408,20 +11416,22 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbda</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f1294a</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11441,7 +11451,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180069</vin>
+			<vin>LB37852D6RS179987</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11452,20 +11462,22 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbdb</unique_id>
+			<unique_id>caa8814800310b6986ec4b9889f1294b</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -11485,7 +11497,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS180070</vin>
+			<vin>LB37852D6RS179988</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -11496,16 +11508,18 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
@@ -11837,356 +11851,6 @@
 				<image>https://photo.toyotasever.ru/LB37852DXRS163072/08454522d340ea9cdb562eec1ec17aa8.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852DXRS163072/d0af4c0cb5201d6ebf1f77ac1bc3f0ba.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852DXRS163072/5cd19234df5df59385590c505623200b.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c74</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154911</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c75</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154912</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c76</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154913</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c77</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154914</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c78</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154915</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c79</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154916</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
-		<car>
-			<unique_id>58e2ba54d4c720fdaab3c356c1490c8a</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>737701</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>987701</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D1RS154917</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
@@ -12537,6 +12201,356 @@
 				<image>https://photo.toyotasever.ru/LB37852D0RS154946/f79aa0bbad6da34dc83a8928b400626d.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D0RS154946/dd9e02030dd0df38e52af53c961b8143.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D0RS154946/ca505454e490277fc4c45166646d031f.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c74</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154911</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c75</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154912</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c76</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154913</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c77</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154914</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c78</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154915</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c79</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154916</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>58e2ba54d4c720fdaab3c356c1490c8a</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>737701</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>987701</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D1RS154917</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 150 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/96ff77a9423fb6c344f547a31a4cfea0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d20a8f7a9bf80fd05983cce21bc84769.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/18d933a141085cb2df5b29672249342e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/65eafa008394377c7c4dbd5cd8723ccb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/aec70d667f61c6d031a61da9dc7f8cce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/da07788cc77263302353cc4adbefe5a4.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a113112a723d8841c25cf5cf166da3af.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/0592790397f4fee5bc3a4221230f5bad.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/a5d532d592ed6ceb973925889402f6f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/89a653edf576d10024f565d97f3e6c0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/ba3b1a57bcfe4323e200661922b4feb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/d7c19b55378c28893ae1798c9961f84b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/f800cfbe89dc6ba53a934e85657281ef.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/1858ed7d3bd48a4183d81d4488e1b159.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/e57778cd33fe6f976b521c8c5b7ee212.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D1RS154910/b7450fb815a2d5be5208b85a9bc7bca2.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
@@ -13702,7 +13716,7 @@
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f12935</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc5</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13722,7 +13736,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179982</vin>
+			<vin>LB37852D6RS180064</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -13733,22 +13747,20 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f12936</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc6</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13768,7 +13780,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179983</vin>
+			<vin>LB37852D6RS180065</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -13779,22 +13791,20 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f12937</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc7</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13814,7 +13824,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179984</vin>
+			<vin>LB37852D6RS180066</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -13825,22 +13835,20 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f12938</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc8</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13860,7 +13868,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179985</vin>
+			<vin>LB37852D6RS180067</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -13871,22 +13879,20 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f12939</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc9</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13906,7 +13912,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179986</vin>
+			<vin>LB37852D6RS180068</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -13917,22 +13923,20 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f1294a</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbda</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13952,7 +13956,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179987</vin>
+			<vin>LB37852D6RS180069</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -13963,22 +13967,20 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>
-			<unique_id>caa8814800310b6986ec4b9889f1294b</unique_id>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbdb</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -13998,7 +14000,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>987701</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS179988</vin>
+			<vin>LB37852D6RS180070</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -14009,18 +14011,16 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/342098246114ac3ef6e7b6e3b677676d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c5b605742a29327a5257123782130f00.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/e8121f27115875d3916951cabfc6c143.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/95ca9d60b7781bb661fe2609092c5449.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/4e40c883c44ce31dbfc864bcf17f866d.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/f7b2735505d61b93b7fa2b34238bc600.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c8a1e2e5873f3ccbf55c44241b4fd24b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/c0c5966ed34334962c3379960fd83dc8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/71fbeb42efe3310d82ce4d521ebd7ee4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/5ac422c20c6ea34d3ce1e158d1d0e8db.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/8f2545e38346c5a5add9d3f3d5d10c63.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS179981/db028164fa06bb78f6ec28fed75fd14c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/8ea18a902c19911accb3a1c40b9163eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>

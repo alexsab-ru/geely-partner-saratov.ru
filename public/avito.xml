@@ -1721,6 +1721,31 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-luxury-серый-2024/</url></car>
 		<car>
+			<unique_id>351931a4afefae04eb22827eb5781819</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3567190</price>
+			<credit_discount>656789</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>856789</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TFS1S89RD118911</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-зеленый-2024/</url></car>
+		<car>
 			<unique_id>3b38fa4eca9979270513f44fd50c3f9d</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>

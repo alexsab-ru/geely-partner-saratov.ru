@@ -40,8 +40,11 @@
         "remove_cars_after_duplicate": [
         ],
         "remove_mark_ids": [
+            "KNEWSTAR",
+            "BelGee"
         ],
         "remove_folder_ids": [
+            "001"
         ]
     },
     "data_cars": {
@@ -55,8 +58,11 @@
         "remove_cars_after_duplicate": [
         ],
         "remove_mark_ids": [
+            "KNEWSTAR",
+            "BelGee"
         ],
         "remove_folder_ids": [
+            "001"
         ]
     },
     "maxposter": {
@@ -70,8 +76,11 @@
         "remove_cars_after_duplicate": [
         ],
         "remove_mark_ids": [
+            "KNEWSTAR",
+            "BelGee"
         ],
         "remove_folder_ids": [
+            "001"
         ]
     },
     "vehicles": {
@@ -85,8 +94,11 @@
         "remove_cars_after_duplicate": [
         ],
         "remove_mark_ids": [
+            "KNEWSTAR",
+            "BelGee"
         ],
         "remove_folder_ids": [
+            "001"
         ]
     }
 }

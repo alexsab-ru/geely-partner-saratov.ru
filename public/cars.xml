@@ -464,20 +464,7 @@
 ✅Скидка по программе “Gееly Finаnсе” 200 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/c3868960f445f713a0dcd42f8af334ac.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/e52882b9c5eb7c3d495e34020c72cd5c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/25af3e9d348b5bb7c66f783a34de81b8.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/445f91495818d8b210380446a18df1d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/26fa62a7eab210ecaecc4e204f899690.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/4d4b5962f73fc9e9775c8b00451ff855.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/9a03d1d2d9322074c21e9d732e214a34.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/7b42b70bc85f51a869b05181e46a0d1c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/9c2ee0b78754f11aca9414ae15db2e1a.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/b6548dff2d2cc06782fb91c62419f319.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/3fb7d14a0c117aeb6f35c73046d8a9f9.jpg</image>
-				<image>https://photo.toyotasever.ru/LB3F31038RG035218/14357cf746a297af535ed34182099522.jpg</image>
-			</images>
+			<images />
 		<max_discount>598757</max_discount><priceWithDiscount>1885233</priceWithDiscount><sale_price>1885233</sale_price><url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-at-122-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>9d1af52e2cf5294b47a121bfd4211731</unique_id>
@@ -693,7 +680,24 @@
 ✅Скидка по программе “Gееly Finаnсе” 220 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/670c36f21e2ee4f5108b8b9503662b17.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/b260bb3b86b6efdf860cc2e437fe0580.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/cf316813a473fcd9524fa7212bc1b13e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/cc1ef7217567e53b181552a251195f18.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/02d3257a5b7624f353fd833064fb9968.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/5705559a8dcce990e5ed3dc3decb8bfe.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/b58cb63d67a307d7d6e2f4dd996c2ce9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/b7ec0673c19c7bba71142fc7e7afd631.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/c48e745fd6850b64ce5795d7a71e8623.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/8d180a89f07d6409186a9339c9b2a666.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/12a58cb53270c3727826d04755220681.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/a354089cddf8c2d5fe88c7970c860cf9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/329fcb6a8bb465c757745ae1923f92ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/af596840ec9687caa5f157f50ed0c6ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/b5930f88373d715b6ca5aafb1382411a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB3F31048RG038077/57fa75c5de0b7cec50d7b2b94597a620.jpg</image>
+			</images>
 		<max_discount>401456</max_discount><priceWithDiscount>1842534</priceWithDiscount><sale_price>1842534</sale_price><url>https://geely-partner-saratov.ru/cars/geely-emgrand-ii-15-mt-122-лс-comfort-белый-2024/</url></car>
 		<car>
 			<unique_id>cea712216d179322ac9200ac57eeee53</unique_id>

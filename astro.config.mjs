@@ -17,8 +17,8 @@ export default defineConfig({
 		}),
 		sitemap({
 			filter: (page) =>
-				page !== 'https://geely-partner-saratov.ru/special-offers/garantiya-nizkoy-ceny/' &&
-				page !== 'https://geely-partner-saratov.ru/special-offers/pozhiznennaya-skidka-na-servisnye-uslugi/',
+				page !== 'https://geely-partner-saratov.ru/p/' &&
+				page !== 'https://geely-partner-saratov.ru/t/',
 		}),
 		robots({
 			policy: [

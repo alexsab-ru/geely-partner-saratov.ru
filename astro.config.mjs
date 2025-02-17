@@ -15,7 +15,11 @@ export default defineConfig({
 		tailwind({
 			configFile: './tailwind.geely.js'
 		}),
-		sitemap(),
+		sitemap({
+			filter: (page) =>
+				page !== 'https://geely-partner-saratov.ru/special-offers/garantiya-nizkoy-ceny/' &&
+				page !== 'https://geely-partner-saratov.ru/special-offers/pozhiznennaya-skidka-na-servisnye-uslugi/',
+		}),
 		robots({
 			policy: [
 				{

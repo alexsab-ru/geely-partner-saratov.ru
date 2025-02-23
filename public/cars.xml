@@ -259,6 +259,48 @@
 			<images />
 		<max_discount>832123</max_discount><priceWithDiscount>2277067</priceWithDiscount><sale_price>2277067</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
+			<unique_id>2ad1a4e37ab175d8f0186e113ab5da42</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3109190</price>
+			<credit_discount>632123</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z7RX534062</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 270 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 220 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/733f972b896955d3bb2179d86a44632e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/e3dcbb6fbbedf686c059ef5c3a7f3cb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/6baa042c1d3bd93c5b4c2d06af4b906b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/77c002e8c7c1c65958751b7fc1f4cbb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/5bf4751447fac7ad867352302e3ccfc0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/a80c6fb245dd762d258c9b51bbaf34e9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/b4a0b8d4aa553157d6aedd4b47ab0fb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/85ffc3587c0e4641f2a448257fa26d61.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37622Z7RX534062/c72e83ed8939046a7b0f35daef761ec4.jpg</image>
+			</images>
+		<max_discount>832123</max_discount><priceWithDiscount>2277067</priceWithDiscount><sale_price>2277067</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-красный-2024/</url></car>
+		<car>
 			<unique_id>c4564cd1cdbfc3b495bdf1b7fde44aa1</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>

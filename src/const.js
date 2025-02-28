@@ -49,7 +49,7 @@ export const LINKS_MENU = [
 // Коллекции
 export const COLLECTIONS = [
 	{name: 'special-offers', title: 'Спецпредложения'},
-	{name: 'news', title: 'Новости'},
+	{name: 'for-owners', title: 'Владельцам'},
 ];
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';

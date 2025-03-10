@@ -1066,41 +1066,6 @@
 			<images />
 		<max_discount>867744</max_discount><priceWithDiscount>2979446</priceWithDiscount><sale_price>2979446</sale_price><url>https://geely-partner-saratov.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-синий-2024/</url></car>
 		<car>
-			<unique_id>1f9af4764a18c37afd464a95d04411b0</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2479990</price>
-			<credit_discount>393600</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z4RB943490</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 200 000 руб
-
-✅Скидка по программе “Специальная выгода” 180 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>743600</max_discount><priceWithDiscount>1736390</priceWithDiscount><sale_price>1736390</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
 			<unique_id>bbdb96c70ee092c6532ff4c6a4bb0c42</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -1121,6 +1086,41 @@
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z4RB943439</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 200 000 руб
+
+✅Скидка по программе “Специальная выгода” 180 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>743600</max_discount><priceWithDiscount>1736390</priceWithDiscount><sale_price>1736390</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
+			<unique_id>1f9af4764a18c37afd464a95d04411b0</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2479990</price>
+			<credit_discount>393600</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z4RB943490</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -1235,7 +1235,15 @@
 ✅Скидка по программе “Специальная выгода” 180 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/e163cac541ada08642afceab63520ae1.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/142cb0c7bc59500bd26fd1a4317808ad.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/e7b570cbeaaaf80526c497fdf2c130ff.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/cde1a7e8b77f8c0cb3032e89dbae549c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/ea72ad43407d907e6b3ceb448398e108.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/412476541eb0b689307ddef0de8ce200.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB946549/21f1ce2310fea10e8a483223bbeab9aa.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1270,7 +1278,15 @@
 ✅Скидка по программе “Специальная выгода” 180 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/d60ea2d4295fe4983b2a76c8305013a0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/c196392c226671f4eed38f00a9ceda01.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/afedefa33dcebc685464219bc2e184e8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/01cf355a911fed7cbf10e68a5c029261.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/dc623207401521473fd58f2a7b72ffde.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/d23dab8ee5f0cb8b484273abb3fbdc14.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB949446/752086b58634846f78610b1cfb25e5c2.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1391,7 +1407,15 @@
 ✅Скидка по программе “Специальная выгода” 180 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/939f189e8ccc5e19f41f0ddc57cb13cd.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/52dd199732ad7f78329d0cf55c0e5b92.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/3d5f6186b70bc2ce4190281971e75270.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/a7f0944e5064cf44e663421faee52b63.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/5d63cd23dd3645e129e731bfbdd2c49e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/2da8cffa9ce57bef0a81ee22000b3ab0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB949405/65b858a35f4e3566bbd1751578df61ea.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>

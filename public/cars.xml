@@ -977,6 +977,53 @@
 			</images>
 		<max_discount>1100702</max_discount><priceWithDiscount>3751488</priceWithDiscount><sale_price>3751488</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
+			<unique_id>fb587f3097bc330a0aab1cc5fe5dfbc4</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>750702</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D6RS180063</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Geely в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе "Трейд-ин" 200 000 руб.
+
+✅Bыгoдa по программе "Geely Finance" 200 000 руб.
+
+✅Скидка по программе “Специальная выгода” 190 000 руб.
+
+✅Скидка по программе “Зимние шины” 30 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/96fe7dd5e4c7bd0be32bc08f0da32bfe.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/6c3c592c74f1a533bf7c5ad867f4bf27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/918232a95228d098ceb0c7cdf402cde9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/5c5cf940fd293a4d4bc26c888049778a.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d569725083fb4e3324827b115ba6480c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a9f60713ebeab84fdc00d59ff071ac27.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/dfd228f09776f1f9daa60e926688ebe9.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/a722443f5e61e367c8e40c5e63f7187c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/166490edc1cb5e930a2aac5d1db6e27e.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS180063/d04c2396ff35283ebfeb3d4816c51985.jpg</image>
+			</images>
+		<max_discount>1100702</max_discount><priceWithDiscount>3751488</priceWithDiscount><sale_price>3751488</sale_price><url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
+		<car>
 			<unique_id>bed6289d8eee17342b4959f4b29ff671</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Okavango, I Рестайлинг</folder_id>
@@ -1095,7 +1142,15 @@
 ✅Скидка по программе “Специальная выгода” 180 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/eabcbb892c13d7efbbac2cba06ced72e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/9027bbf01080d33f7d0df1649d64912c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/82051e8e6300e321cd1c4301faaf2db7.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/49d4b64d40adb61d8d388207212a3661.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/65c06fa43d201573c6263fce5207c62e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/28b0007e911314a0941c9b748b475cf0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943439/30eb6e5438b9bd6a0e07cd07ce4c883f.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1130,7 +1185,21 @@
 ✅Скидка по программе “Специальная выгода” 180 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/4035ccbe0a8f84be2cc5f0430ed93f74.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/8a52730d9d934f77b60c9e54067c7326.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/e54c983db3720d5fbde2dec40940626c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/5256e74c0d942ccfb73fbd550da8f1ca.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/026c5a544f36a905fc9f6117fe1017ee.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/c8b69a4ce3da11180d129f6849396840.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/612a3bbe795f7558b9861f755c4305d0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/af954d893ca472c0586f0eba2fa394a2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/00784f3a26163b2d3a6161c57b13d0d3.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/cb8d8db707c589d6efcf4e545660b90e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/10be0fd437a0ba7979b9159cb4a90efd.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/3e62235b95d5393ea40cd83c5812715e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z4RB943490/24435f123abc463537e2f705392efaf9.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -1165,7 +1234,15 @@
 ✅Скидка по программе “Специальная выгода” 180 000 руб.
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/b81ad9ead7241fec998bcc7f11ecef33.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/96ed15fee0dc228fff6aff96f0ea86ad.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/a0e300c86e413afd88d7062a6ea2868c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/456d56b72ea16985a2d407c54ef4ef49.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/d380969230a1c6fa7835189eb7f8cc46.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/c7c9cb135cdad4bcd806d0dba5900446.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB942528/be5aa0625f54415e8255524b57e3f46e.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>

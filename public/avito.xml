@@ -1196,6 +1196,31 @@
 				<image>https://photo.toyotasever.ru/L6TVX1S6XRY065298/37d910da5b72b744dbb27f43f069d456.jpeg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-синий-2024/</url></car>
+		<car>
+			<unique_id>0951e60a6c728441982393cb03970d73</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3567190</price>
+			<credit_discount>777789</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>977789</max_discount>
+			<currency>RUR</currency>
+			<vin>L6TFS1S82RD152379</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
 	<car>
 			<unique_id>c50c26b57433bfd50864df134508be5d</unique_id>
 			<mark_id>Geely</mark_id>

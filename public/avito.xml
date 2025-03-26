@@ -260,6 +260,31 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
 		<car>
+			<unique_id>3b152f191dbba72d16248de0889194c0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Cityray</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3254190</price>
+			<credit_discount>587445</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>190000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>777445</max_discount>
+			<currency>RUR</currency>
+			<vin>LB3G43S90RX309008</vin>
+			<description />
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-flagship-серый-2024/</url></car>
+		<car>
 			<unique_id>5ad5892bc3b8169ba3b6ec0e0f1aec3c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Cityray</folder_id>

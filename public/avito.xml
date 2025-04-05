@@ -1388,7 +1388,7 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/knewstar-001-20-at-200-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>c6de05b8301763e456f9ddd36c15fc45</unique_id>
+			<unique_id>f6175424da771801361e98867ab78ec6</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -1399,7 +1399,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>11</run>
+			<run>13</run>
 			<year>2024</year>
 			<price>4493190</price>
 			<credit_discount>567745</credit_discount>
@@ -1408,7 +1408,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>817745</max_discount>
 			<currency>RUR</currency>
-			<vin>LHA022GD5RB004027</vin>
+			<vin>LHA022GD4RB004066</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
@@ -1438,7 +1438,7 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/knewstar-001-20-at-238-лс-4wd-flagship-sport-серый-2024/</url></car>
 		<car>
-			<unique_id>f6175424da771801361e98867ab78ec6</unique_id>
+			<unique_id>c6de05b8301763e456f9ddd36c15fc45</unique_id>
 			<mark_id>KNEWSTAR</mark_id>
 			<folder_id>001</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
@@ -1449,7 +1449,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>13</run>
+			<run>11</run>
 			<year>2024</year>
 			<price>4493190</price>
 			<credit_discount>567745</credit_discount>
@@ -1458,7 +1458,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>817745</max_discount>
 			<currency>RUR</currency>
-			<vin>LHA022GD4RB004066</vin>
+			<vin>LHA022GD5RB004027</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!

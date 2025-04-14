@@ -425,16 +425,16 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
             print("")
             with open('output.txt', 'a') as file:
                 file.write(f"{errorText}\n")
-            thumb = "/img/404.jpg"
+            thumb = "https://cdn.alexsab.ru/errors/404.webp"
     else:
         print("")
-        errorText = f"VIN: {vin}. Не хватает модели: {brand} {model} или цвета: {color}"
+        errorText = f"VIN: {vin}. Не хватает бренд: {brand}, модели: {model}, цвета: {color}"
         print(errorText)
         print("")
         with open('output.txt', 'a') as file:
             file.write(f"{errorText}\n")
         # Если 'model' или 'color' не найдены, используем путь к изображению ошибки 404
-        thumb = "/img/404.jpg"
+        thumb = "https://cdn.alexsab.ru/errors/404.webp"
 
 
     # Forming the YAML frontmatter
@@ -446,6 +446,7 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, con
     else:
         content += "total: 1\n"
     # content += f"permalink: {friendly_url}\n"
+    content += f"vin_list: {vin}\n"
     content += f"vin_hidden: {vin_hidden}\n"
 
     h1 = join_car_data(car, 'mark_id', 'folder_id', 'modification_id')
@@ -628,6 +629,10 @@ def update_yaml(car, filename, friendly_url, current_thumbs, config):
 
 
     vin = car.find('vin').text
+    if vin is not None:
+        # Создаём или добавляем строку в список
+        data['vin_list'] += ", " + vin
+
     vin_hidden = process_vin_hidden(vin)
     if vin_hidden is not None:
         # Создаём или добавляем строку в список

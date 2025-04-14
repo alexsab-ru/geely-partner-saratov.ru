@@ -19,6 +19,9 @@ export default defineConfig({
 				page !== 'https://geely-partner-saratov.ru/p/' &&
 				page !== 'https://geely-partner-saratov.ru/t/',
 		}),
+		sitemap({
+			filter: (page) => !page.endsWith('telegram-bot/') && !page.endsWith('redirect/')
+		}),
 		robots({
 			policy: [
 				{

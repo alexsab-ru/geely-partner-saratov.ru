@@ -1197,6 +1197,30 @@
 			<images />
 		<max_discount>977789</max_discount><priceWithDiscount>2589401</priceWithDiscount><sale_price>2589401</sale_price><url>https://geely-partner-saratov.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-серый-2024/</url></car>
 		<car>
+			<unique_id>ca15bf64fb26ca147c3f00dfcf0b2373</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Preface, I Рестайлинг 2</folder_id>
+			<modification_id>2.0 AMT (200 л.с.)</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3567190</price>
+			<credit_discount>777789</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>L6TFS1S82RD113775</vin>
+			<description />
+			<images />
+		<max_discount>977789</max_discount><priceWithDiscount>2589401</priceWithDiscount><sale_price>2589401</sale_price><url>https://geely-partner-saratov.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-черный-2024/</url></car>
+		<car>
 			<unique_id>8c01b6ccc7f60dcd24a29876a56cf790</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -1464,17 +1488,15 @@
 
 *Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.03.2025 г. по 31.03.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/651244fbe32908b837933b98f40a847a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/9b9ad85997807e90b89e37f888400ad9.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/2f713d716fdec7e1eff98d722c16b1b3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/1a3a01761a763496be3679a41f16eb2b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/2ef1277fbfd300f79b4e6b6244b21ac2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/646459a6c723b80f9f60fb20ba01920e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/75942001c0decdf32c96a22c2cd338fb.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/6dade87e187053af09b6b357991d7a80.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/f1117fd5c8f231f2f275802788789fda.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/f32d7c8841da560eb14c4dc3e0c226b1.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/2ad3eb39dbe2637217e44e427ecd5a07.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/75015984730199167af239a01c6db47b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/a22a2702179a8a5efbe86877c36d26ff.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/28de3196e53d92cb23f4148fe5a00c8c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/55036a30174fca530690f7256c1d091f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/b1f5e5d34e69af2e170964f92eba0930.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/fb6a2f299114a99b5230f8575128e66b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/3b78b7b4e4ca7a1a8f1f766243dfcbad.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/d199ba6ba59480e3924b236f50d6df9d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB909707/72b5a109d857b69497943d2e98ebd5d8.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>

@@ -670,55 +670,6 @@
 			</images>
 		<max_discount>930000</max_discount><priceWithDiscount>2324190</priceWithDiscount><sale_price>2324190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-cityray-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>e20754734d63cd8f053a9ebfa9877c10</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Coolray, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>3109190</price>
-			<credit_discount>470000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>260000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LB37622Z6RX539995</vin>
-			<description>Партнер Авто Саратов!
-
-Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июне. He упустите!
-
-
-В нашем дилерском центре стартовала грандиозная акция!
-
-5 лет без забот!*
-
-- ТО с нулевого до 5
-- 10 шинных отелей (сезонное хранение шин)
-
-*за 1 рубль при покупке нового автомобиля.
-
-
- Скидки дo 10% нa весь модельный ряд Gееly!
- Подарок при покупке: бесплатное дополнительное оборудование. .
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
-			<images />
-		<max_discount>730000</max_discount><priceWithDiscount>2379190</priceWithDiscount><sale_price>2379190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>4d70445e9c8e61f100dcd6d1c5a6f473</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
@@ -768,29 +719,54 @@
 			<images />
 		<max_discount>730000</max_discount><priceWithDiscount>2379190</priceWithDiscount><sale_price>2379190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>918a297671b42e0be37721edc9fd2bf0</unique_id>
+			<unique_id>e20754734d63cd8f053a9ebfa9877c10</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Coolray, I Рестайлинг</folder_id>
 			<modification_id>1.5 AMT (147 л.с.)</modification_id>
-			<complectation_name>Luxury</complectation_name>
+			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
-			<price>2909190</price>
-			<credit_discount>477444</credit_discount>
+			<price>3109190</price>
+			<credit_discount>470000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
+			<tradein_discount>260000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB37622Z3RX542563</vin>
-			<description />
+			<vin>LB37622Z6RX539995</vin>
+			<description>Партнер Авто Саратов!
+
+Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в июне. He упустите!
+
+
+В нашем дилерском центре стартовала грандиозная акция!
+
+5 лет без забот!*
+
+- ТО с нулевого до 5
+- 10 шинных отелей (сезонное хранение шин)
+
+*за 1 рубль при покупке нового автомобиля.
+
+
+ Скидки дo 10% нa весь модельный ряд Gееly!
+ Подарок при покупке: бесплатное дополнительное оборудование. .
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
 			<images />
-		<max_discount>677444</max_discount><priceWithDiscount>2231746</priceWithDiscount><sale_price>2231746</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
+		<max_discount>730000</max_discount><priceWithDiscount>2379190</priceWithDiscount><sale_price>2379190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>d52670fb2c301cf5134d88e6fb0ed510</unique_id>
 			<mark_id>Geely</mark_id>
@@ -815,6 +791,30 @@
 			<description />
 			<images />
 		<max_discount>677444</max_discount><priceWithDiscount>2231746</priceWithDiscount><sale_price>2231746</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-серый-2024/</url></car>
+		<car>
+			<unique_id>918a297671b42e0be37721edc9fd2bf0</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Coolray, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (147 л.с.)</modification_id>
+			<complectation_name>Luxury</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2909190</price>
+			<credit_discount>477444</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LB37622Z3RX542563</vin>
+			<description />
+			<images />
+		<max_discount>677444</max_discount><priceWithDiscount>2231746</priceWithDiscount><sale_price>2231746</sale_price><url>https://geely-partner-saratov.ru/cars/geely-coolray-i-рестайлинг-15-amt-147-лс-luxury-белый-2024/</url></car>
 		<car>
 			<unique_id>8e37aee34a0e030be37fd7a6100cd5da</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1528,70 +1528,6 @@
 			</images>
 		<max_discount>1133000</max_discount><priceWithDiscount>2714190</priceWithDiscount><sale_price>2714190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-okavango-i-рестайлинг-20-amt-200-лс-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>0e385d39f72eb625f334b0189a41c496</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Preface, I Рестайлинг 2</folder_id>
-			<modification_id>2.0 AMT (200 л.с.)</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>3567190</price>
-			<credit_discount>740000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>259000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>L6TFS1S80RD150694</vin>
-			<description>Партнер Авто Саратов!
-
-Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июне. He упустите!
-
-
-В нашем дилерском центре стартовала грандиозная акция!
-
-5 лет без забот!*
-
-- ТО с нулевого до 5
-- 10 шинных отелей (сезонное хранение шин)
-
-*за 1 рубль при покупке нового автомобиля.
-
-
- Скидки дo 10% нa весь модельный ряд Gееly!
- Подарок при покупке: бесплатное дополнительное оборудование. .
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/c8f701470a8c3a4d4f1fad9b1b920e38.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/7b31c506bb904bbe2848100c99643294.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/83e3b0fbb31019fae42bcdc416c45865.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/c8a20c61ccacefafcfbd2eea5f49bff2.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/0e600ac585a675f929063027f6bc48a7.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/f9072c5f170c4f941a114173060c9b68.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/5daa97c068d96d878d66748de17d0fae.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/ed98211c7e2e52684aa872d2df0cd119.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/c81364256d5569a06d1ba9427e8d50f1.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/b0335ee9840898c3d243be9d73ad6f48.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/d194ba734baf30eaa1529580f44def8b.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/13de5634d561a69bd436b17fb5ba63cb.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/e5e0648f35c7a4ba2f311b3348d29bc5.jpg</image>
-				<image>https://photo.toyotasever.ru/L6TFS1S80RD150694/a9b56b55efc15686f88a2612c9507ea2.jpg</image>
-			</images>
-		<max_discount>999000</max_discount><priceWithDiscount>2568190</priceWithDiscount><sale_price>2568190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-preface-i-рестайлинг-2-20-amt-200-лс-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>fecfce963b0088dfa6f5ddeaad6c2b7f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Preface, I Рестайлинг 2</folder_id>
@@ -1939,6 +1875,57 @@
 			</multiposting>
 		<max_discount>739097</max_discount><priceWithDiscount>1951093</priceWithDiscount><sale_price>1951093</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2025/</url></car>
 		<car>
+			<unique_id>2a7de8f068db0fcc47cd247bfa19ea8e</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2025</year>
+			<price>2590190</price>
+			<credit_discount>521877</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z8SB916265</vin>
+			<description>Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в июне. He упустите!
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 04.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/10cda81d5a704650dd4f69f26ded4248.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/2cdfd110c32d7644d16ade4e9e96c14b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/40f12c409e9eda6f0ded52ca14565810.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/14a232d814c0706fae722e0cd61874aa.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/e6f63434f198aef09ac7c032d65e7c7f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/92e17932ddcff276f3fcb6cfc13a9c97.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/7ddc36cb53ed48bc7975588eafef0b8f.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
+		<car>
 			<unique_id>5e548816f6f2770d0caddbc08591de36</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -2041,58 +2028,7 @@
 			</multiposting>
 		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
 		<car>
-			<unique_id>2a7de8f068db0fcc47cd247bfa19ea8e</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2025</year>
-			<price>2590190</price>
-			<credit_discount>521877</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z8SB916265</vin>
-			<description>Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июне. He упустите!
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 04.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/10cda81d5a704650dd4f69f26ded4248.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/2cdfd110c32d7644d16ade4e9e96c14b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/40f12c409e9eda6f0ded52ca14565810.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/14a232d814c0706fae722e0cd61874aa.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/e6f63434f198aef09ac7c032d65e7c7f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/92e17932ddcff276f3fcb6cfc13a9c97.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z8SB916265/7ddc36cb53ed48bc7975588eafef0b8f.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
-		<car>
-			<unique_id>1c5885e5691c3b15bbd4c29d899c2f7d</unique_id>
+			<unique_id>d462612fa707f414ff7178d3c46a12a6</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2111,7 +2047,7 @@
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9SB908210</vin>
+			<vin>Y4K8622Z6SB908178</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -2130,13 +2066,13 @@
 
 *Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 04.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/713fd3a6a997a963145d1fbb1334a24f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/cac347cc47297ab1e1b5dd838bf190f2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/e04a4693da02c5892892124574b69ec3.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/fac015bb129b325953501c17232e0467.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/4ac9b02ee0efb3658877b63c81bda2f7.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/392a916a54d4a30f8c205a2a265aa00e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/be28f19d9ab09db064f86c4fe79f0ca6.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/9967486640c42ab812c44f2655ebc21a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/04a4e8f42601aa174e226ee6df8a685a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/56f76fe0eb038a3445270a019a1bf491.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/45b0164dccd25995130cd515cea5cdfc.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/15b1c9bf728fd16db9e755f7f31245f8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/f073c0651eadaa19e3cde6f5c339c70a.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/618e9944a7e19e11656a07ccfbfd6377.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -2192,7 +2128,7 @@
 			</multiposting>
 		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2025/</url></car>
 		<car>
-			<unique_id>d462612fa707f414ff7178d3c46a12a6</unique_id>
+			<unique_id>1c5885e5691c3b15bbd4c29d899c2f7d</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2211,7 +2147,7 @@
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6SB908178</vin>
+			<vin>Y4K8622Z9SB908210</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -2230,18 +2166,77 @@
 
 *Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 04.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/9967486640c42ab812c44f2655ebc21a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/04a4e8f42601aa174e226ee6df8a685a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/56f76fe0eb038a3445270a019a1bf491.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/45b0164dccd25995130cd515cea5cdfc.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/15b1c9bf728fd16db9e755f7f31245f8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/f073c0651eadaa19e3cde6f5c339c70a.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908178/618e9944a7e19e11656a07ccfbfd6377.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/713fd3a6a997a963145d1fbb1334a24f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/cac347cc47297ab1e1b5dd838bf190f2.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/e04a4693da02c5892892124574b69ec3.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/fac015bb129b325953501c17232e0467.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/4ac9b02ee0efb3658877b63c81bda2f7.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/392a916a54d4a30f8c205a2a265aa00e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9SB908210/be28f19d9ab09db064f86c4fe79f0ca6.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2025/</url></car>
+		<car>
+			<unique_id>ac882631e8de94f9892163937e015d09</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2025</year>
+			<price>2590190</price>
+			<credit_discount>521877</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z0SB918219</vin>
+			<description>Партнер Авто в Саратове!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в июне. He упустите!
+
+В нашем дилерском центре стартовали грандиозные акции !!!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 04.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/b39731a683de8d990824484e462803f6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/6f66966c431c1289ee93fcc56417da59.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/4c1b942ed3c19179fa3cdf3ecb3681ad.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/4b28116064b34cd97cca7eb07c7fd73d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/8d9eb443ac080a423e0a6a61ff9b3e3d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/aa5b03690bf3523c5c249b9fdd99c444.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/18e5aef89be64f8a0e4ffd9a6ce70432.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/479628b776841be6291124bf2bf8f945.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/3fa0ecc7ce19c70149ee53648ad9bd7e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/dd16eef7eb507d8167f56867108dca1a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/1e4ef57980ee0422058fdfcae12c3882.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/fd5abd812a38e4f5a4fc01b80893210a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/bffa6750da656fc798e3c055b8d2f77a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/a56d0645fe8ad43d38c2b27ffc7b17e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/b613bab7934b0e0bd6aaf93972bba9a0.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2025/</url></car>
 		<car>
 			<unique_id>e437a4876bd899fadafcc16665eb5761</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -2297,65 +2292,6 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z4SB918238/ffdc618b75237f3fadd4341a067541f2.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4SB918238/9e06842de522a7f745ec93e0537f30e4.jpeg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z4SB918238/1a401c1f8d53035ff65813b828b69446.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-серый-2025/</url></car>
-		<car>
-			<unique_id>ac882631e8de94f9892163937e015d09</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2025</year>
-			<price>2590190</price>
-			<credit_discount>521877</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z0SB918219</vin>
-			<description>Партнер Авто в Саратове!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июне. He упустите!
-
-В нашем дилерском центре стартовали грандиозные акции !!!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 04.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/b39731a683de8d990824484e462803f6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/6f66966c431c1289ee93fcc56417da59.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/4c1b942ed3c19179fa3cdf3ecb3681ad.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/4b28116064b34cd97cca7eb07c7fd73d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/8d9eb443ac080a423e0a6a61ff9b3e3d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/aa5b03690bf3523c5c249b9fdd99c444.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/18e5aef89be64f8a0e4ffd9a6ce70432.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/479628b776841be6291124bf2bf8f945.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/3fa0ecc7ce19c70149ee53648ad9bd7e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/dd16eef7eb507d8167f56867108dca1a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/1e4ef57980ee0422058fdfcae12c3882.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/fd5abd812a38e4f5a4fc01b80893210a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/bffa6750da656fc798e3c055b8d2f77a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/a56d0645fe8ad43d38c2b27ffc7b17e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z0SB918219/b613bab7934b0e0bd6aaf93972bba9a0.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>

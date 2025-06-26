@@ -9,9 +9,12 @@ description: "Внимание! Всем новым клиентам предо�
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import Timer from '@/components/Timer/Timer.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
-import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import { LAST_DAY, FIRST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 
 export const dateFrom = '01.07.2024';
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
@@ -19,10 +22,10 @@ export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
 export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 <picture>
-    <source media="(min-width: 1200px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1920x1080.webp" />
-    <source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-768x1365.webp" />
-    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1080x1920.webp" />
-<img src="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1920x1080.webp" class="w-full mb-10" alt="Выгодное Техническое Обслуживание" />
+    <source media="(min-width: 1200px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1200x600.webp" />
+    <source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1080x1080.webp" />
+    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1080x1080.webp" />
+<img src="https://cdn.alexsab.ru/specials/geely/skidka-30-na-uslugi-servisa-dlya-novyh-klientov/geely-service30-1080x1080.webp" class="w-full mb-10" alt="Скидка 30% на услуги сервиса для новых клиентов" />
 </picture>
 
 ### Всем новым<sup>*</sup> клиентам делаем  скидку 30%<sup>**</sup> на все виды технических работ, производимых в официальном дилерском центре Geely Партнер Авто Саратов.
@@ -36,9 +39,9 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 - ☑ Шиномонтаж
 - ☑ Установка дополнительного оборудования
 
-Скидка действует только до {dateToGenitive} года! Не упустите свой шанс!
+Скидка действует только до {dateTo} года! Не упустите свой шанс!
 
-<SpecialSalonsInfo />
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Скидка 30% на услуги сервиса Geely" />
 
 > <sup>*</sup> Новым клиентом считается клиент, который приехал на автомобиле, который ранее  не заезжал на услуги сервиса, а так же данный автомобиль приобрел не в нашем ДЦ. 
 

@@ -1,6 +1,7 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
-import {SITE_NAME, LEGAL_ENTITY, LEGAL_INN, LEGAL_CITY} from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_entity, legal_inn, legal_city } = settings;
 ---
 <PageLayout
     h1="Пожизненная скидка на сервисные услуги"

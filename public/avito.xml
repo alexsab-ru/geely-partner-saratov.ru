@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>ed41fa13e8e60d64f3748cbced144394</unique_id>
+			<unique_id>579e1c9c650dad2fccaf924aa0c9a99f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
@@ -21,7 +21,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>868000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S15RB130106</vin>
+			<vin>LB3FX1S17RB163057</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
@@ -51,7 +51,7 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-зеленый-2024/</url></car>
 		<car>
-			<unique_id>579e1c9c650dad2fccaf924aa0c9a99f</unique_id>
+			<unique_id>ed41fa13e8e60d64f3748cbced144394</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
@@ -71,7 +71,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>868000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S17RB163057</vin>
+			<vin>LB3FX1S15RB130106</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!

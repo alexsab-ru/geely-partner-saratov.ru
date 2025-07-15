@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>ed41fa13e8e60d64f3748cbced144394</unique_id>
+			<unique_id>579e1c9c650dad2fccaf924aa0c9a99f</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
@@ -20,7 +20,7 @@
 			<tradein_discount>263000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S15RB130106</vin>
+			<vin>LB3FX1S17RB163057</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
@@ -50,7 +50,7 @@
 			<images />
 		<max_discount>868000</max_discount><priceWithDiscount>3049190</priceWithDiscount><sale_price>3049190</sale_price><url>https://geely-partner-saratov.ru/cars/geely-atlas-ii-20-at-200-лс-4wd-flagship-зеленый-2024/</url></car>
 		<car>
-			<unique_id>579e1c9c650dad2fccaf924aa0c9a99f</unique_id>
+			<unique_id>ed41fa13e8e60d64f3748cbced144394</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Atlas, II</folder_id>
 			<modification_id>2.0 AT (200 л.с.) 4WD</modification_id>
@@ -69,7 +69,7 @@
 			<tradein_discount>263000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LB3FX1S17RB163057</vin>
+			<vin>LB3FX1S15RB130106</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
@@ -1667,7 +1667,7 @@
 			</multiposting>
 		<max_discount>739097</max_discount><priceWithDiscount>1951093</priceWithDiscount><sale_price>1951093</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2025/</url></car>
 		<car>
-			<unique_id>ada393535eed7a477725c7b557add29a</unique_id>
+			<unique_id>5a95174858fa825e22a5c0987b3e0b17</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -1686,7 +1686,7 @@
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z0SB906149</vin>
+			<vin>Y4K8622Z0SB906152</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -1710,7 +1710,7 @@
 			</multiposting>
 		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://geely-partner-saratov.ru/cars/belgee-x50-15-amt-150-лс-style-белый-2025/</url></car>
 		<car>
-			<unique_id>5a95174858fa825e22a5c0987b3e0b17</unique_id>
+			<unique_id>ada393535eed7a477725c7b557add29a</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -1729,7 +1729,7 @@
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z0SB906152</vin>
+			<vin>Y4K8622Z0SB906149</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!

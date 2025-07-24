@@ -967,56 +967,6 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>08febc5269ffe5a603dad7737e4ba16c</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>940000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>1290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D0RS201876</vin>
-			<description>Партнер Авто Саратов!
-
-Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июле. He упустите!
-
-
-В нашем дилерском центре стартовала грандиозная акция!
-
-5 лет без забот!*
-
-- ТО с нулевого до 5
-- 10 шинных отелей (сезонное хранение шин)
-
-*за 1 рубль при покупке нового автомобиля.
-
-
- Скидки дo 10% нa весь модельный ряд Gееly!
- Подарок при покупке: бесплатное дополнительное оборудование. .
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
-			<images />
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
-		<car>
 			<unique_id>a6be25b8493f172d21da74b261dfab33</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1028,7 +978,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4852190</price>
 			<credit_discount>940000</credit_discount>
@@ -1067,15 +1017,15 @@
 			<images />
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
-			<unique_id>1fc28af8f41ae013fd4c344ff4f51d2e</unique_id>
+			<unique_id>08febc5269ffe5a603dad7737e4ba16c</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
 			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
 			<complectation_name>Flagship</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>да</metallic>
+			<color>Белый</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>7</run>
@@ -1087,7 +1037,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>1290000</max_discount>
 			<currency>RUR</currency>
-			<vin>LB37852D6RS260155</vin>
+			<vin>LB37852D0RS201876</vin>
 			<description>Партнер Авто Саратов!
 
 Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
@@ -1114,25 +1064,8 @@
 Подробности акций уточняйте у наших менеджеров 
 
 *Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/cd4d49f5b65b8ad5e56b56b6c41e883b.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/815fb591331d6043ee4f6c7c8e8ca859.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/25ca48aef3f70725d1d7a56b6ca135a6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/73d2b0d15311508711b017d025f83780.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/476ec9a96a8ccdc5409c7083ee843571.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/abd4f4823d891a865911603497662fce.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/16f1adee26b9f44284b9aa187f4b1752.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/1b94ef32b2f798498cd65dcd8facc326.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/430b33a79e4960a872c3a74871e7d4f2.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/7344bc751796fc4a5a829cd8e375c036.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/9a5bed25aec83312e3ff58a7fccae77c.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/29739c870ca66163b58b1a785f3d80f6.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/88c5137de01e950eaad490be3f538aac.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/e1013d457b91460b09ab7e413c3563d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/111beedf0eb6110d6404712bde8d5bf0.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D6RS260155/be73cee7b3d80234911db6082bbc2065.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+			<images />
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-белый-2024/</url></car>
 		<car>
 			<unique_id>475b725d2d2dc68648f206bfb09970f5</unique_id>
 			<mark_id>Geely</mark_id>
@@ -1199,6 +1132,73 @@
 				<image>https://photo.toyotasever.ru/LB37852D5RS204420/e72c7461f7ad54945630bcdeb01669b1.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D5RS204420/40adf80800819274552f60bc4bc508ab.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D5RS204420/92f599f57f825ecb2a88edcc3857c1be.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
+		<car>
+			<unique_id>1fc28af8f41ae013fd4c344ff4f51d2e</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебряный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>940000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>1290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D6RS260155</vin>
+			<description>Партнер Авто Саратов!
+
+Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в июле. He упустите!
+
+
+В нашем дилерском центре стартовала грандиозная акция!
+
+5 лет без забот!*
+
+- ТО с нулевого до 5
+- 10 шинных отелей (сезонное хранение шин)
+
+*за 1 рубль при покупке нового автомобиля.
+
+
+ Скидки дo 10% нa весь модельный ряд Gееly!
+ Подарок при покупке: бесплатное дополнительное оборудование. .
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/cd4d49f5b65b8ad5e56b56b6c41e883b.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/815fb591331d6043ee4f6c7c8e8ca859.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/25ca48aef3f70725d1d7a56b6ca135a6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/73d2b0d15311508711b017d025f83780.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/476ec9a96a8ccdc5409c7083ee843571.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/abd4f4823d891a865911603497662fce.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/16f1adee26b9f44284b9aa187f4b1752.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/1b94ef32b2f798498cd65dcd8facc326.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/430b33a79e4960a872c3a74871e7d4f2.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/7344bc751796fc4a5a829cd8e375c036.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/9a5bed25aec83312e3ff58a7fccae77c.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/29739c870ca66163b58b1a785f3d80f6.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/88c5137de01e950eaad490be3f538aac.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/e1013d457b91460b09ab7e413c3563d3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/111beedf0eb6110d6404712bde8d5bf0.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D6RS260155/be73cee7b3d80234911db6082bbc2065.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серебристый-2024/</url></car>
 		<car>
@@ -1271,66 +1271,6 @@
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-серый-2024/</url></car>
 		<car>
-			<unique_id>8ae50284e5f97ba20337078f87b24a15</unique_id>
-			<mark_id>Geely</mark_id>
-			<folder_id>Monjaro</folder_id>
-			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
-			<complectation_name>Flagship</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4852190</price>
-			<credit_discount>940000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>350000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>1290000</max_discount>
-			<currency>RUR</currency>
-			<vin>LB37852D5RS254993</vin>
-			<description>Партнер Авто Саратов!
-
-Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в июле. He упустите!
-
-
-В нашем дилерском центре стартовала грандиозная акция!
-
-5 лет без забот!*
-
-- ТО с нулевого до 5
-- 10 шинных отелей (сезонное хранение шин)
-
-*за 1 рубль при покупке нового автомобиля.
-
-
- Скидки дo 10% нa весь модельный ряд Gееly!
- Подарок при покупке: бесплатное дополнительное оборудование. .
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/c987ab971b3ae2dc72b0d91feb848205.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/c084d46703809683ab45b219a443b8f5.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/57519f5c9dc5274cd4db63fb58fb7f05.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/feec4d83535f59c5117cdba9dd4892d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/d691b5ce8c990f7b03305476cf67de84.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/6d383def1de384de40c94425fd588429.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/0e96314afb5cb18112031de67bf38264.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/8d19c129f595382b3f01adea24999dbe.jpg</image>
-				<image>https://photo.toyotasever.ru/LB37852D5RS254993/ef73f95715df47e4e38eb574edd4afc0.jpg</image>
-			</images>
-		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
-		<car>
 			<unique_id>7b7da4e7a51217886707a0f80490ea37</unique_id>
 			<mark_id>Geely</mark_id>
 			<folder_id>Monjaro</folder_id>
@@ -1389,6 +1329,66 @@
 				<image>https://photo.toyotasever.ru/LB37852D6RS254937/16ecbe15ca3005551c2805223e3c7f90.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D6RS254937/41b1371130ff4334457e8d45825b327f.jpg</image>
 				<image>https://photo.toyotasever.ru/LB37852D6RS254937/12157ffc12fbf50bc16fc9fb727511e1.jpg</image>
+			</images>
+		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
+		<car>
+			<unique_id>8ae50284e5f97ba20337078f87b24a15</unique_id>
+			<mark_id>Geely</mark_id>
+			<folder_id>Monjaro</folder_id>
+			<modification_id>2.0 AT (238 л.с.) 4WD</modification_id>
+			<complectation_name>Flagship</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4852190</price>
+			<credit_discount>940000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>350000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>1290000</max_discount>
+			<currency>RUR</currency>
+			<vin>LB37852D5RS254993</vin>
+			<description>Партнер Авто Саратов!
+
+Рассрочка 0,01% на покупку Gееly теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в июле. He упустите!
+
+
+В нашем дилерском центре стартовала грандиозная акция!
+
+5 лет без забот!*
+
+- ТО с нулевого до 5
+- 10 шинных отелей (сезонное хранение шин)
+
+*за 1 рубль при покупке нового автомобиля.
+
+
+ Скидки дo 10% нa весь модельный ряд Gееly!
+ Подарок при покупке: бесплатное дополнительное оборудование. .
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Gееly на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Gееly. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.06.2025 г. по 31.06.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Gееly».</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/c987ab971b3ae2dc72b0d91feb848205.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/c084d46703809683ab45b219a443b8f5.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/57519f5c9dc5274cd4db63fb58fb7f05.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/feec4d83535f59c5117cdba9dd4892d3.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/d691b5ce8c990f7b03305476cf67de84.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/6d383def1de384de40c94425fd588429.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/0e96314afb5cb18112031de67bf38264.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/8d19c129f595382b3f01adea24999dbe.jpg</image>
+				<image>https://photo.toyotasever.ru/LB37852D5RS254993/ef73f95715df47e4e38eb574edd4afc0.jpg</image>
 			</images>
 		<url>https://geely-partner-saratov.ru/cars/geely-monjaro-20-at-238-лс-4wd-flagship-черный-2024/</url></car>
 		<car>

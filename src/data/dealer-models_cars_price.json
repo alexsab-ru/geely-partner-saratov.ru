@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "BELGEE",
+    "model": "X50",
+    "price": 1818313,
+    "benefit": 771877
+  },
+  {
+    "brand": "BELGEE",
+    "model": "X70",
+    "price": 2065279,
+    "benefit": 905000
+  },
+  {
+    "brand": "Geely",
+    "model": "Atlas",
+    "price": 2849190,
+    "benefit": 868000
+  },
+  {
+    "brand": "Geely",
+    "model": "Cityray",
+    "price": 2284190,
+    "benefit": 930000
+  },
+  {
+    "brand": "Geely",
+    "model": "Coolray",
+    "price": 2231746,
+    "benefit": 787454
+  },
+  {
+    "brand": "Geely",
+    "model": "Emgrand",
+    "price": 1823990,
+    "benefit": 570000
+  },
+  {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 3562190,
+    "benefit": 1290000
+  },
+  {
+    "brand": "Geely",
+    "model": "Okavango",
+    "price": 2694190,
+    "benefit": 1153000
+  }
+]
